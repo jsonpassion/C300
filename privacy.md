@@ -1,7 +1,94 @@
-# 삼백 (Sanbai) 개인정보 처리방침 / Privacy Policy
+# Từ Vựng HSK · 삼백 · HSK VOCA — Chính sách quyền riêng tư / 개인정보 처리방침 / Privacy Policy
 
+**Ngày cập nhật và có hiệu lực:** 10 tháng 9 năm 2026
 **최종 수정일 및 시행일:** 2026년 9월 10일
 **Last Updated / Effective:** September 10, 2026
+
+---
+
+## Tiếng Việt
+
+### 1. Tổng quan
+
+Chính sách này áp dụng cho ứng dụng iOS Từ Vựng HSK (tên tiếng Hàn: 삼백, tên tiếng Anh: HSK VOCA, sau đây gọi là "Ứng dụng") do ForgeLab (người đại diện: Jason Lee, sau đây gọi là "Nhà phát triển") phát hành. Nhà phát triển tuân thủ các luật có liên quan, bao gồm Luật Bảo vệ Thông tin Cá nhân của Hàn Quốc, và chính sách này giải thích Ứng dụng xử lý những thông tin nào và xử lý ra sao. Những vấn đề không được quy định tại đây tuân theo Điều khoản sử dụng và pháp luật có liên quan.
+
+### 2. Chúng tôi không thu thập thông tin cá nhân
+
+**Ứng dụng không thu thập bất kỳ thông tin cá nhân nào.**
+
+Ứng dụng không yêu cầu đăng ký, đăng nhập hay tạo tài khoản. Nhà phát triển không vận hành máy chủ riêng để lưu dữ liệu người dùng, và không thu thập hay nhận bất kỳ thông tin cá nhân nào như họ tên, email, số điện thoại, vị trí, mã định danh thiết bị hay mã định danh quảng cáo.
+
+### 3. Dữ liệu học tập lưu trên thiết bị và iCloud
+
+Để các tính năng học tập hoạt động, Ứng dụng lưu các dữ liệu dưới đây trên thiết bị của bạn, đồng thời lưu vào iCloud (kho khóa-giá trị) của chính bạn để có thể khôi phục sau khi cài lại.
+
+- Cấp độ đã chọn và điểm mục tiêu
+- Trạng thái học của từng từ (đã thuộc, chưa thuộc, thành thạo), số vòng ôn và số lần sai
+- Số lượng học theo ngày, điểm dự đoán và chuỗi ngày học liên tiếp
+- Sổ từ của tôi (dấu trang)
+- Cài đặt ứng dụng như cỡ chữ, và việc đã hiển thị hướng dẫn hay chưa
+- Việc sở hữu gói sử dụng (chỉ lưu trên thiết bị)
+
+Dữ liệu này thuộc về tài khoản Apple của bạn và chỉ được đồng bộ qua iCloud của Apple. Nhà phát triển không thể xem hay truy cập dữ liệu này. Việc đồng bộ iCloud phụ thuộc vào tình trạng dịch vụ của Apple và cài đặt iCloud của bạn; nếu tắt iCloud hoặc đổi tài khoản Apple, dữ liệu có thể không được khôi phục.
+
+Trong phạm vi pháp luật cho phép, Nhà phát triển không chịu trách nhiệm đối với việc mất dữ liệu học tập hoặc không khôi phục được dữ liệu do đổi thiết bị, xóa Ứng dụng, thay đổi cài đặt iCloud, sự cố dịch vụ của Apple hoặc các trường hợp tương tự.
+
+### 4. Mua hàng trong ứng dụng và gói đăng ký
+
+Gói sử dụng (gói đăng ký theo năm, gói đăng ký theo tháng, gói trọn đời) được bán qua Apple App Store và Apple là bên bán hàng. Thông tin thanh toán như số thẻ do Apple xử lý; Ứng dụng và Nhà phát triển không thể truy cập.
+
+Apple có thể cung cấp cho Nhà phát triển thông tin giao dịch không chứa họ tên hay phương thức thanh toán (mã giao dịch, sản phẩm, thời điểm mua và gia hạn, tình trạng hoàn tiền và các thông tin tương tự). Nhà phát triển chỉ sử dụng thông tin này để xác minh và khôi phục gói sử dụng, xử lý hoàn tiền và tranh chấp, thực hiện nghĩa vụ thuế và kế toán, và có thể lưu giữ trong thời hạn pháp luật quy định. Việc hủy gói đăng ký, yêu cầu hoàn tiền và xem lịch sử thanh toán được thực hiện trong phần cài đặt tài khoản Apple và tuân theo chính sách của Apple.
+
+### 5. Kết nối mạng
+
+Ứng dụng chỉ kết nối Internet cho các mục đích sau.
+
+- **Tải nội dung học tập:** dữ liệu từ vựng được tải từ một kho lưu trữ công khai trên GitHub. Khi đó, các thông tin truy cập thông thường như địa chỉ IP và loại thiết bị có thể được gửi tới GitHub (GitHub, Inc.) và chính sách quyền riêng tư của GitHub được áp dụng. Nhà phát triển không nhận thông tin này.
+- **Xác minh và khôi phục giao dịch:** trạng thái gói sử dụng được kiểm tra với Apple App Store. Chính sách quyền riêng tư của Apple được áp dụng.
+- **Đọc thành tiếng:** tính năng đọc từ và câu ví dụ sử dụng bộ tổng hợp giọng nói có sẵn trong iOS và được xử lý ngay trên thiết bị.
+
+Ngoài ra, Ứng dụng không thực hiện kết nối nào khác.
+
+### 6. Dịch vụ bên thứ ba, quảng cáo và theo dõi
+
+Ứng dụng không sử dụng mạng quảng cáo, công cụ phân tích hay SDK theo dõi, và không yêu cầu mã định danh quảng cáo (IDFA). Nếu bạn đã cho phép chia sẻ dữ liệu phân tích ứng dụng với nhà phát triển trong cài đặt iPhone, Apple có thể cung cấp cho Nhà phát triển báo cáo sự cố và thống kê sử dụng đã được ẩn danh và tổng hợp. Thông tin này không thể dùng để nhận dạng cá nhân.
+
+### 7. Thông tin được xử lý khi bạn liên hệ
+
+Khi bạn liên hệ qua email, địa chỉ email, nội dung liên hệ và tệp đính kèm sẽ được gửi tới Nhà phát triển. Thông tin này chỉ được dùng để trả lời, giải quyết vấn đề và xử lý tranh chấp. Hồ sơ liên quan đến khiếu nại hoặc tranh chấp của người tiêu dùng được lưu giữ 3 năm theo Luật Bảo vệ Người tiêu dùng trong Thương mại Điện tử của Hàn Quốc rồi xóa; các liên hệ khác được xóa ngay sau khi xử lý xong.
+
+### 8. Thông tin cá nhân của trẻ em
+
+Vì Ứng dụng không thu thập thông tin cá nhân, Ứng dụng cũng không thu thập thông tin cá nhân của trẻ em dưới 14 tuổi. Việc mua hàng trong ứng dụng của người dùng dưới 14 tuổi phải có sự đồng ý của cha mẹ hoặc người giám hộ hợp pháp; có thể sử dụng tính năng Chia sẻ trong gia đình và Yêu cầu mua của Apple.
+
+### 9. Quyền của người dùng và xóa dữ liệu
+
+- **Dữ liệu trên thiết bị:** khi xóa Ứng dụng, dữ liệu lưu trên thiết bị cũng bị xóa theo.
+- **Dữ liệu trên iCloud:** chạy **Cài đặt > Đặt lại dữ liệu học** trong Ứng dụng sẽ xóa toàn bộ lịch sử học trên cả thiết bị và iCloud.
+- Nhà phát triển không nắm giữ dữ liệu học tập của bạn, nên không có dữ liệu nào thuộc đối tượng của yêu cầu xem, sửa hay xóa. Hồ sơ liên hệ tại mục 7 sẽ được xóa theo yêu cầu, trừ trường hợp pháp luật bắt buộc lưu giữ.
+
+### 10. Biện pháp bảo đảm an toàn
+
+Nhà phát triển không đặt máy chủ lưu dữ liệu người dùng. Mọi kết nối mạng đều được mã hóa bằng HTTPS, và nội dung học tập tải về đều được kiểm tra tính toàn vẹn.
+
+### 11. Sử dụng dịch vụ ở nước ngoài
+
+Máy chủ của Apple (iCloud, App Store) và GitHub có thể đặt ở ngoài quốc gia của bạn. Việc sử dụng các dịch vụ đó tuân theo chính sách quyền riêng tư của từng công ty.
+
+### 12. Người phụ trách bảo vệ thông tin cá nhân
+
+- Đơn vị vận hành: ForgeLab (người đại diện: Jason Lee)
+- Người phụ trách bảo vệ thông tin cá nhân: Jason Lee
+
+- Liên hệ: [Liên hệ qua email](mailto:forgelab.aitech@gmail.com?subject=%5BHSK%20VOCA%5D%20Support)
+
+### 13. Thay đổi chính sách
+
+Chính sách này có hiệu lực kể từ ngày được đăng trên trang này. Khi có thay đổi, ngày cập nhật sẽ được sửa và phiên bản mới được công bố tại đây; những thay đổi quan trọng cũng sẽ được thông báo trong Ứng dụng. Việc tiếp tục sử dụng Ứng dụng sau khi thay đổi đồng nghĩa với việc bạn chấp nhận chính sách đã sửa đổi.
+
+### 14. Giải quyết tranh chấp
+
+Nếu có tranh chấp liên quan đến chính sách này, vui lòng liên hệ trước với chúng tôi qua email ở trên, chúng tôi sẽ thiện chí trao đổi. Tranh chấp không giải quyết được bằng thương lượng sẽ áp dụng pháp luật Hàn Quốc, và tòa án có thẩm quyền được xác định theo Điều khoản sử dụng. Tại Hàn Quốc, bạn cũng có thể liên hệ Trung tâm Tiếp nhận Báo cáo Xâm phạm Thông tin Cá nhân (privacy.kisa.or.kr, số 118).
 
 ---
 
@@ -9,7 +96,7 @@
 
 ### 1. 개요
 
-이 방침은 ForgeLab(대표 Jason Lee, 이하 "개발자")이 배포하는 iOS 앱 삼백(영문명 Sanbai, HSK Vocabulary, 이하 "앱")에 적용됩니다. 개발자는 「개인정보 보호법」 등 관련 법령을 지키며, 이 방침에서 앱이 어떤 정보를 다루고 어떻게 처리하는지 설명합니다. 이 방침에서 정하지 않은 사항은 이용약관과 관련 법령을 따릅니다.
+이 방침은 ForgeLab(대표 Jason Lee, 이하 "개발자")이 배포하는 iOS 앱 삼백(영문명 HSK VOCA, 베트남어명 Từ Vựng HSK, 이하 "앱")에 적용됩니다. 개발자는 「개인정보 보호법」 등 관련 법령을 지키며, 이 방침에서 앱이 어떤 정보를 다루고 어떻게 처리하는지 설명합니다. 이 방침에서 정하지 않은 사항은 이용약관과 관련 법령을 따릅니다.
 
 ### 2. 개인정보를 수집하지 않습니다
 
@@ -79,7 +166,7 @@ Apple(iCloud, App Store)과 GitHub의 서버는 국외에 있을 수 있습니�
 - 사업자: ForgeLab (대표 Jason Lee)
 - 개인정보 보호책임자: Jason Lee
 
-- 문의: [이메일로 문의하기](mailto:forgelab.aitech@gmail.com?subject=%5BSanbai%5D%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EB%AC%B8%EC%9D%98)
+- 문의: [이메일로 문의하기](mailto:forgelab.aitech@gmail.com?subject=%5BHSK%20VOCA%5D%20Support)
 
 ### 13. 방침의 변경
 
@@ -95,7 +182,7 @@ Apple(iCloud, App Store)과 GitHub의 서버는 국외에 있을 수 있습니�
 
 ### 1. Overview
 
-This policy applies to the iOS app Sanbai (HSK Vocabulary; Korean name 삼백, "the App"), published by ForgeLab (representative: Jason Lee, "the Developer"). The Developer complies with applicable privacy laws, including the Personal Information Protection Act of Korea, and this policy explains what information the App handles and how. Matters not covered here follow the Terms of Service and applicable law.
+This policy applies to the iOS app HSK VOCA (Vietnamese name Từ Vựng HSK; Korean name 삼백, "the App"), published by ForgeLab (representative: Jason Lee, "the Developer"). The Developer complies with applicable privacy laws, including the Personal Information Protection Act of Korea, and this policy explains what information the App handles and how. Matters not covered here follow the Terms of Service and applicable law.
 
 ### 2. We do not collect personal information
 
@@ -165,7 +252,7 @@ Servers operated by Apple (iCloud, App Store) and GitHub may be located outside 
 - Operator: ForgeLab (Representative: Jason Lee)
 - Privacy officer: Jason Lee
 
-- Contact: [Contact us by email](mailto:forgelab.aitech@gmail.com?subject=%5BSanbai%5D%20Privacy%20inquiry)
+- Contact: [Contact us by email](mailto:forgelab.aitech@gmail.com?subject=%5BHSK%20VOCA%5D%20Support)
 
 ### 13. Changes to this policy
 

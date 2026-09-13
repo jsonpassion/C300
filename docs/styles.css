@@ -155,7 +155,7 @@ body {
 }
 
 /* 120 = 육공공 = ㅇㅇㄱ — Korean nickname brand strip (hero) */
-.kr-brand { display: flex; align-items: center; gap: 11px; margin: 18px 0 28px; }
+.kr-brand { display: flex; flex-wrap: wrap; align-items: center; gap: 11px; margin: 18px 0 28px; }
 .kk {
   display: grid;
   place-items: center;
@@ -199,7 +199,7 @@ body {
   grid-template-columns: 1.15fr 0.85fr;
   gap: 48px;
   align-items: center;
-  padding: 72px 0 84px;
+  padding: 72px 20px 84px;
 }
 .hero h1 {
   font-size: clamp(34px, 5vw, 52px);
@@ -873,7 +873,7 @@ footer .contact-btn:hover { transform: translate(1px, 1px); text-decoration: non
 .policy strong { color: var(--ink); }
 .policy a { color: var(--ink); font-weight: 800; text-decoration-color: var(--brand); text-decoration-thickness: 3px; }
 
-.lang-toggle { display: flex; gap: 10px; margin-bottom: 28px; }
+.lang-toggle { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 28px; }
 .lang-toggle button {
   font: inherit;
   font-weight: 800;
@@ -888,14 +888,43 @@ footer .contact-btn:hover { transform: translate(1px, 1px); text-decoration: non
 .lang-toggle button.active { background: var(--brand); }
 .lang-toggle button:active { transform: translate(3px, 3px); box-shadow: none; }
 
-.lang-en { display: none; }
-body.en .lang-en { display: block; }
-body.en .lang-ko { display: none; }
+/* Policy pages: Vietnamese is the default; body.ko / body.en switch.
+   Only hide, never set display, so the classes work on blocks and inline spans. */
+body:not(.ko):not(.en) .lang-ko,
+body:not(.ko):not(.en) .lang-en,
+body.ko .lang-vi, body.ko .lang-en,
+body.en .lang-vi, body.en .lang-ko { display: none; }
+
+/* ---------- Site language switch (Tiếng Việt / 한국어) ---------- */
+.lang-switch {
+  display: flex;
+  flex: none;
+  background: var(--card-bg);
+  border: 2.5px solid var(--ink);
+  border-radius: 999px;
+  box-shadow: 2px 2px 0 var(--ink);
+  overflow: hidden;
+}
+.lang-switch a {
+  padding: 5px 11px;
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1.3;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.lang-switch a + a { border-left: 2.5px solid var(--ink); }
+.lang-switch a[aria-current="page"] { background: var(--brand-2); }
+.lang-switch a:not([aria-current="page"]):hover { background: var(--brand-3); }
+.lang-switch .ls-short { display: none; }
+/* "词汇" mark in the Vietnamese logo tile */
+.logo-block.logo-block-zh { font-size: 14px; letter-spacing: 0; }
 
 /* ---------- Responsive ---------- */
 
 @media (max-width: 860px) {
-  .hero { grid-template-columns: 1fr; text-align: center; padding: 48px 0 60px; }
+  .hero { grid-template-columns: minmax(0, 1fr); text-align: center; padding: 48px 20px 60px; }
   .hero p.sub { margin-left: auto; margin-right: auto; }
   .hero-ctas { justify-content: center; }
   .kr-brand { justify-content: center; }
@@ -911,10 +940,18 @@ body.en .lang-ko { display: none; }
 }
 
 @media (max-width: 540px) {
+  .nav-inner { gap: 10px; padding: 12px 16px; }
+  .logo { font-size: 17px; gap: 8px; }
+  .logo-block { width: 34px; height: 34px; }
+  .nav-cta { padding: 7px 12px !important; font-size: 13px !important; }
+  .lang-switch .ls-full { display: none; }
+  .lang-switch .ls-short { display: inline; }
+  .lang-switch a { padding: 5px 9px; }
   .grid { grid-template-columns: 1fr; }
   .steps { grid-template-columns: 1fr; }
   .topics { grid-template-columns: repeat(2, 1fr); }
   .policy-card { padding: 28px 20px; }
+  .lang-toggle button { padding: 8px 14px; }
 }
 
 /* ============================================================
@@ -973,7 +1010,7 @@ html.js .reveal.in      { opacity: 1; transform: none; }
 
 /* ---- Hero visual: glow behind the phone + gentle float ---- */
 .hero-visual { position: relative; display: flex; align-items: center; justify-content: center; }
-.hero-visual .phone { position: relative; z-index: 1; }
+.hero-visual .phone { position: relative; z-index: 1; max-width: 100%; }
 .hero-visual .glow {
   position: absolute; width: 120%; height: 120%;
   background: var(--grad-brand);
@@ -1099,7 +1136,8 @@ html.js .reveal.in      { opacity: 1; transform: none; }
   .reel { rotate: -7deg; translate: 0 26px; }
   .reel:hover { rotate: -7deg; translate: 0 26px; }
 }
-@media (max-width: 900px) { .reel { display: none; } }
+/* .reel-slot sets display: grid later in the file; the doubled class keeps the hide winning */
+@media (max-width: 900px) { .reel, .reel.reel-slot { display: none; } }
 
 .cinema {
   position: relative;
