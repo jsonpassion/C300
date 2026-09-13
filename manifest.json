@@ -1,0 +1,152 @@
+{
+  "version": "c-530e6ad1abb2",
+  "generated_at": "2026-09-13T15:08:34Z",
+  "schema_version": 1,
+  "track": "hsk-300",
+  "profile": {
+    "target_score": 300,
+    "daily_study_minutes": 5,
+    "voca_review_rule": "hoedok-rounds",
+    "free_chapters": 10
+  },
+  "score_band_policy": {
+    "version": "3.0",
+    "rule": "six-level",
+    "bands": [
+      {
+        "id": "hsk-1",
+        "label": "1급",
+        "min_score": 0,
+        "max_score": 200,
+        "order": 1
+      },
+      {
+        "id": "hsk-2",
+        "label": "2급",
+        "min_score": 0,
+        "max_score": 200,
+        "order": 2
+      },
+      {
+        "id": "hsk-3",
+        "label": "3급",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 3
+      },
+      {
+        "id": "hsk-4",
+        "label": "4급",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 4
+      },
+      {
+        "id": "hsk-5",
+        "label": "5급",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 5
+      },
+      {
+        "id": "hsk-6",
+        "label": "6급",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 6
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "voca-1-u001",
+      "type": "voca",
+      "level": 1,
+      "path": "content/voca/hsk-1/unit-001.md",
+      "checksum_sha256": "a5a5a34ebbae5b82cff9b00ccbe785dd98f060efe17adcde0e5063d3cb148dac",
+      "updated_at": "2026-09-14T00:00:00Z",
+      "score_band_id": "hsk-1",
+      "score_min": 0,
+      "score_max": 200,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-2-u001",
+      "type": "voca",
+      "level": 2,
+      "path": "content/voca/hsk-2/unit-001.md",
+      "checksum_sha256": "5d70036d27095bcb7ecafd7f7a3fe0de6f7eeace3384fa88eb5f721498fcb251",
+      "updated_at": "2026-09-14T00:00:00Z",
+      "score_band_id": "hsk-2",
+      "score_min": 0,
+      "score_max": 200,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-3-u001",
+      "type": "voca",
+      "level": 3,
+      "path": "content/voca/hsk-3/unit-001.md",
+      "checksum_sha256": "7507994dc5e21bdea288ed2a70320567522e6b3e8903facb89a1255ccd245832",
+      "updated_at": "2026-09-14T00:00:00Z",
+      "score_band_id": "hsk-3",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-4-u001",
+      "type": "voca",
+      "level": 4,
+      "path": "content/voca/hsk-4/unit-001.md",
+      "checksum_sha256": "cf7c53e2ff2e89b9d15e06263c51962f5b67e7f8a4065a34af3411ac46bd3d06",
+      "updated_at": "2026-09-14T00:00:00Z",
+      "score_band_id": "hsk-4",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-5-u001",
+      "type": "voca",
+      "level": 5,
+      "path": "content/voca/hsk-5/unit-001.md",
+      "checksum_sha256": "3d9dd84d23d3d960326e39920680ea3ac0bb3ba3b1a30d4ec80af9b92fb50932",
+      "updated_at": "2026-09-14T00:00:00Z",
+      "score_band_id": "hsk-5",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-6-u001",
+      "type": "voca",
+      "level": 6,
+      "path": "content/voca/hsk-6/unit-001.md",
+      "checksum_sha256": "ff83046689abe5063b2262cd5440c991f4f011b694c890b38f3e773bf8e8bb66",
+      "updated_at": "2026-09-14T00:00:00Z",
+      "score_band_id": "hsk-6",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    }
+  ]
+}
