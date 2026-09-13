@@ -1,6 +1,7 @@
-# Sanbai Content — HSK 어휘 콘텐츠 리포
+# HSK VOCA Content — HSK 어휘 콘텐츠 리포
 
-> **Sanbai(삼백)** — 3–6급 만점 300에서 따온 이름 (三百).
+> 앱 이름: **Từ Vựng HSK**(베트남어, 기본) · **삼백**(한국어) · **HSK VOCA**(영문). 주 시장은 베트남.
+> 앱은 기기 언어(베트남어/한국어)로 화면과 단어 뜻을 고르고, 설정에서 바꿀 수 있다.
 > [NINE90](https://github.com/jsonpassion/NINE90)(TOEIC 트랙)과 동일한 콘텐츠 파이프라인을 쓰는
 > HSK 트랙 리포지토리 — 앱은 manifest URL 하나로 이 리포의 콘텐츠를 통째로 동기화합니다.
 
@@ -12,11 +13,13 @@
 content.config.json               ← 트랙 규격: 밴드·권 수·언어·표기 (도구가 모두 이것을 읽는다)
 plan/curriculum.json              ← 밴드별 10권 테마
 prompts/wordlist.md               ← 1단계: 밴드별 후보 표제어 프롬프트
-prompts/unit.md                   ← 2단계: 배정된 100단어로 권 파일 쓰기 프롬프트
+prompts/unit.vi.md                ← 2단계: 베트남어판 권 파일 쓰기 프롬프트 (Hán-Việt TIP)
+prompts/unit.ko.md                ← 2단계: 한국어판 권 파일 쓰기 프롬프트 (한국 한자어 TIP)
 tools/plan.py                     ← 후보 병합·전역 중복 제거·100개 배정·brief 생성·todo
 tools/validate_content.py         ← 형식·표기·중복·배정 일치 검증 (0 errors 필수)
-tools/build_manifest.py           ← manifest.json 생성
-content/voca/{band}/unit-NNN.md   ← 1파일 = 1권 = 100단어 (10단어 = 1챕터)
+tools/build_manifest.py           ← manifest.<lang>.json 생성 (모든 도구 --lang vi|ko, 기본 vi)
+content/vi/voca/{band}/unit-NNN.md ← 베트남어판 → manifest.vi.json
+content/ko/voca/{band}/unit-NNN.md ← 한국어판 → manifest.ko.json (1파일 = 1권 = 100단어, 10단어 = 1챕터)
 OVERNIGHT.md                      ← 밤샘 병렬 생성 런북 + 붙여넣기용 오케스트레이션 프롬프트
 ```
 
@@ -36,10 +39,13 @@ OVERNIGHT.md                      ← 밤샘 병렬 생성 런북 + 붙여넣기
 ## 단어 줄 형식 — 앞면은 간체만, 병음은 뒷면
 
 ```
-- 简体 | 한국어 뜻 | pīnyīn | TIP | 中文例句 | 예문 번역
+- 简体 | nghĩa tiếng Việt | pīnyīn | MẸO | 中文例句 | bản dịch        (content/vi)
+- 简体 | 한국어 뜻        | pīnyīn | TIP  | 中文例句 | 예문 번역       (content/ko)
 ```
 
-샘플: [content/voca/hsk-4/unit-001.md](content/voca/hsk-4/unit-001.md) — 앱 확인용 더미(급수당 20단어, `dummy: true`).
+두 언어판의 같은 권은 **표제어·순서·예문이 같다** — 카드 ID가 같아서 앱에서 언어를 바꿔도 학습 기록이 이어진다(검증기가 강제).
+
+샘플: [content/vi/voca/hsk-4/unit-001.md](content/vi/voca/hsk-4/unit-001.md) · [content/ko/voca/hsk-4/unit-001.md](content/ko/voca/hsk-4/unit-001.md) — 앱 확인용 더미(급수당 20단어, `dummy: true`).
 본 생성 전에 `python3 tools/plan.py clear-dummy`로 지운다.
 
 ## 콘텐츠 규칙
@@ -49,7 +55,7 @@ OVERNIGHT.md                      ← 밤샘 병렬 생성 런북 + 붙여넣기
 - 필드 안에 파이프(`|`) 금지 (구분자 전용)
 - 카드 ID = `{파일 id}-{표제어 slug}` — 줄 순서와 무관하지만, **출시 후 표제어 철자 변경·삭제는 금지**
   (사용자 학습 진도가 카드 ID에 매여 있음). 추가는 새 유닛 파일로.
-- `manifest.json`의 `profile.free_chapters`(기본 10 = 1권) = 밴드마다 무료로 열리는 챕터 수
+- `manifest.<lang>.json`의 `profile.free_chapters`(기본 10 = 1권) = 밴드마다 무료로 열리는 챕터 수
   (앱이 원격 설정으로 읽음)
 
 ## 워크플로
@@ -57,13 +63,12 @@ OVERNIGHT.md                      ← 밤샘 병렬 생성 런북 + 붙여넣기
 단어 생성은 [OVERNIGHT.md](OVERNIGHT.md) 한 곳에 정리돼 있다 (후보 목록 → 전역 중복 제거·배정 → 권별 병렬 작성 → 검증).
 
 ```bash
-python3 tools/plan.py status         # 진행 상황
-python3 tools/validate_content.py    # 0 errors 필수
-python3 tools/build_manifest.py
-git add content plan manifest.json && git commit && git push
+python3 tools/plan.py status --lang vi                # 진행 상황
+for L in vi ko; do python3 tools/validate_content.py --lang $L && python3 tools/build_manifest.py --lang $L; done
+git add content plan manifest.*.json && git commit && git push
 ```
 
-앱은 raw.githubusercontent.com의 manifest.json 버전 변경을 감지해 바뀐 파일만 내려받습니다
+앱은 raw.githubusercontent.com의 manifest.<lang>.json 버전 변경을 감지해 바뀐 파일만 내려받습니다
 (sha256 검증 포함). raw CDN 캐시 특성상 push 후 매니페스트 반영까지 ~5분 걸릴 수 있습니다.
 
 ## 상표 고지

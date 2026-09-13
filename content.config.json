@@ -8,8 +8,15 @@
   "words_per_unit": 100,
   "tags": ["hsk", "chinese", "vocabulary"],
   "language": {
-    "word": "zh", "meaning": "ko", "tip": "ko",
-    "reading": "pinyin", "tip_max_chars": 45, "dedupe_with_reading": true
+    "word": "zh", "meaning": "vi", "tip": "vi",
+    "reading": "pinyin", "tip_max_chars": 60, "dedupe_with_reading": true
+  },
+  "default_variant": "vi",
+  "variants": {
+    "vi": { "content_dir": "content/vi/voca", "manifest": "manifest.vi.json", "unit_prompt": "unit.vi.md",
+            "language": { "meaning": "vi", "tip": "vi", "tip_max_chars": 60 } },
+    "ko": { "content_dir": "content/ko/voca", "manifest": "manifest.ko.json", "unit_prompt": "unit.ko.md",
+            "language": { "meaning": "ko", "tip": "ko", "tip_max_chars": 45 } }
   },
   "bands": [
     { "id": "hsk-1", "label": "1급", "min_score": 0, "max_score": 200, "pass_mark": 120, "order": 1,

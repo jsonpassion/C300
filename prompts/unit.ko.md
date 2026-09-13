@@ -48,4 +48,4 @@ score_max: {{SCORE_MAX}}
 
 ## 저장 전 스스로 확인
 ① 100줄 ② 모든 줄 6필드 ③ 간체·병음이 배정표와 같음 ④ 병음은 성조 부호 ⑤ TIP 45자 이내 ⑥ 예문에 표제어가 그대로 있음.
-저장 후 `python3 tools/validate_content.py --unit {{BAND_ID}}/{{UNIT}}` 가 0 errors가 될 때까지 해당 줄만 고친다.
+저장 후 `python3 tools/validate_content.py {{LANG_FLAG}} --unit {{BAND_ID}}/{{UNIT}}` 가 0 errors가 될 때까지 해당 줄만 고친다.
