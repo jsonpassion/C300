@@ -69,7 +69,7 @@ score_max: 300
 - 纪念碑 | đài tưởng niệm, bia kỷ niệm | jìniànbēi | Hán Việt: kỷ niệm bi — 碑 = bia | 广场中央矗立着一座高大的纪念碑。 | Giữa quảng trường sừng sững một đài tưởng niệm cao lớn.
 - 先驱 | người tiên phong | xiānqū | Hán Việt: tiên khu — người đi đầu mở đường | 他是中国近代思想启蒙的先驱。 | Ông là người tiên phong trong công cuộc khai sáng tư tưởng cận đại Trung Quốc.
 - 先辈 | thế hệ đi trước, bậc tiền bối | xiānbèi | Hán Việt: tiên bối — gần nghĩa tiền bối | 我们要继承先辈留下的优良传统。 | Chúng ta phải kế thừa truyền thống tốt đẹp mà thế hệ đi trước để lại.
-- 华夏 | dân tộc Hoa Hạ, Trung Hoa | huáxià | Hán Việt: Hoa Hạ — tên cổ của Trung Hoa | 黄河流域是华夏文明的发源地。 | Lưu vực sông Hoàng Hà là cái nôi của nền văn minh Hoa Hạ.
+- 华夏 | dân tộc Hoa Hạ, Trung Hoa | Huáxià | Hán Việt: Hoa Hạ — tên cổ của Trung Hoa | 黄河流域是华夏文明的发源地。 | Lưu vực sông Hoàng Hà là cái nôi của nền văn minh Hoa Hạ.
 - 丝绸之路 | con đường tơ lụa | sīchóu zhī lù | 丝绸 = tơ lụa · 之 = của (văn viết) | 丝绸之路促进了东西方的文化交流。 | Con đường tơ lụa đã thúc đẩy giao lưu văn hóa giữa phương Đông và phương Tây.
 - 转折点 | bước ngoặt | zhuǎnzhédiǎn | 折 thanh 2 zhé · Cặp 历史的转折点 | 这场战役成为战争的转折点。 | Trận đánh này đã trở thành bước ngoặt của cuộc chiến.
 - 里程碑 | cột mốc, dấu mốc | lǐchéngbēi | Nghĩa bóng · Cặp 具有里程碑意义 | 这次登月是航天史上的里程碑。 | Lần đổ bộ lên Mặt Trăng này là một dấu mốc trong lịch sử hàng không vũ trụ.
