@@ -80,9 +80,11 @@
   <!-- CSS-drawn app preview (placeholder until release screenshots) -->
   <div class="hero-visual" data-reveal="zoom">
   <div class="glow" aria-hidden="true"></div>
-  <div class="reel reel-slot" aria-hidden="true">
-    <!-- Footage slot: swap for <video> once assets/video/onboarding-loop.mp4 exists -->
-    <div class="slot-card"><b>300</b><span class="slot-eyes"><i></i><i></i></span></div>
+  <div class="reel" aria-hidden="false">
+    <video autoplay muted loop playsinline preload="metadata" poster="assets/video/onboarding-loop.jpg"
+           aria-label="Khoảnh khắc quên sạch từ vừa học, ôn lại bằng thẻ theo từng vòng, rồi mỉm cười khi nhớ ra">
+      <source src="assets/video/onboarding-loop.mp4" type="video/mp4" />
+    </video>
   </div>
   <div class="phone" aria-hidden="true">
     <div class="notch"></div>
@@ -111,8 +113,9 @@
 
 <!-- ======================= STATEMENT BAND 1 ======================= -->
 <section class="cinema" id="film" aria-label="Phim giới thiệu vòng ôn">
-  <!-- Wide film slot: swap for <video> once assets/video/hero-fan.mp4 exists -->
-  <div class="cinema-art" aria-hidden="true"></div>
+  <video autoplay muted loop playsinline preload="metadata" poster="assets/video/hero-fan.jpg">
+    <source src="assets/video/hero-fan.mp4" type="video/mp4" />
+  </video>
   <div class="scrim"></div>
   <div class="cinema-inner">
     <div class="cinema-copy">
