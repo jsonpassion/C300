@@ -29,7 +29,7 @@ score_max: 300
 - 此后 | từ đó về sau, sau đó | cǐhòu | Hán Việt: thử hậu · 此 = 这 trong văn viết | 毕业后他去了上海，此后我们很少见面。 | Tốt nghiệp xong anh ấy đến Thượng Hải, từ đó về sau chúng tôi ít gặp nhau.
 - 此前 | trước đó, trước đây | cǐqián | Hán Việt: thử tiền · đối lập với 此后 | 此前他从来没有出过国。 | Trước đó anh ấy chưa từng ra nước ngoài.
 - 届时 | đến lúc đó, khi ấy | jièshí | Hán Việt: giới thời · hay dùng trong thông báo | 会议下周召开，届时请准时参加。 | Hội nghị sẽ được tổ chức vào tuần sau, đến lúc đó xin mời tham dự đúng giờ.
-- 迄今为止 | cho đến nay | qìjīn wéizhǐ | 为 đọc wéi thanh 2 · = 到目前为止 | 迄今为止，已有上万人报名参加。 | Cho đến nay đã có hàng vạn người đăng ký tham gia.
+- 迄今为止 | cho đến nay | qìjīn wéizhǐ | 为 đọc wéi thanh 2 · = 到目前为止 | 迄今为止，已有上万人报名参加。 | Cho đến nay đã có hơn một vạn người đăng ký tham gia.
 - 当前 | hiện nay, trước mắt | dāngqián | Hán Việt: đương tiền · hay gặp 当前形势 | 当前最重要的任务是提高产品质量。 | Nhiệm vụ quan trọng nhất hiện nay là nâng cao chất lượng sản phẩm.
 - 如今 | ngày nay, bây giờ | rújīn | Hán Việt: như kim · thường so sánh với quá khứ | 如今很多人习惯用手机付款。 | Ngày nay nhiều người đã quen thanh toán bằng điện thoại.
 - 向来 | xưa nay, từ trước đến nay | xiànglái | Hán Việt: hướng lai · = 一向, nói thói quen lâu dài | 他向来说话算话，从不骗人。 | Anh ấy xưa nay nói là làm, chưa bao giờ lừa ai.

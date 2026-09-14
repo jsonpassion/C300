@@ -19,7 +19,7 @@ score_max: 300
 - 病毒 | vi-rút, virus | bìngdú | Hán Việt: bệnh độc — dùng cả cho virus máy tính | 这种病毒传染得很快。 | Loại vi-rút này lây lan rất nhanh.
 - 症状 | triệu chứng | zhèngzhuàng | Hán Việt: chứng trạng — 症 đọc zhèng thanh 4 | 感冒的症状有发烧和咳嗽。 | Triệu chứng của cảm cúm gồm sốt và ho.
 - 诊断 | chẩn đoán | zhěnduàn | Hán Việt: chẩn đoán — nghĩa giống tiếng Việt | 医生诊断他得了胃病。 | Bác sĩ chẩn đoán anh ấy bị bệnh dạ dày.
-- 体检 | khám sức khỏe | tǐjiǎn | Viết tắt của 身体检查 · Hán Việt: thể kiểm | 公司每年组织员工体检一次。 | Mỗi năm công ty tổ chức khám sức khỏe cho nhân viên một lần.
+- 体检 | khám sức khỏe | tǐjiǎn | Viết tắt của 体格检查 · Hán Việt: thể kiểm | 公司每年组织员工体检一次。 | Mỗi năm công ty tổ chức khám sức khỏe cho nhân viên một lần.
 - 手术 | phẫu thuật, ca mổ | shǒushù | Hán Việt: thủ thuật — nhưng nghĩa là phẫu thuật | 他的手术非常成功。 | Ca phẫu thuật của anh ấy rất thành công.
 - 患者 | bệnh nhân | huànzhě | Hán Việt: hoạn giả — văn viết của 病人 | 医生每天要看几十位患者。 | Mỗi ngày bác sĩ phải khám mấy chục bệnh nhân.
 - 大夫 | bác sĩ | dàifu | Đọc dàifu = bác sĩ · dàfū = quan đại phu thời xưa | 大夫，我这几天一直咳嗽。 | Bác sĩ ơi, mấy hôm nay tôi ho suốt.
