@@ -1,0 +1,102 @@
+# theme: 문학 비평
+# unit: voca-6-u010
+文学批评 | wénxué pīpíng
+评论家 | pínglùnjiā
+文本 | wénběn
+叙事 | xùshì
+叙述者 | xùshùzhě
+第一人称 | dì-yī rénchēng
+人物形象 | rénwù xíngxiàng
+刻画 | kèhuà
+渲染 | xuànrǎn
+铺垫 | pūdiàn
+伏笔 | fúbǐ
+悬念 | xuánniàn
+高潮 | gāocháo
+结局 | jiéjú
+尾声 | wěishēng
+序言 | xùyán
+篇章 | piānzhāng
+章节 | zhāngjié
+体裁 | tǐcái
+文体 | wéntǐ
+诗词 | shīcí
+随笔 | suíbǐ
+杂文 | záwén
+史诗 | shǐshī
+悲剧 | bēijù
+喜剧 | xǐjù
+隐喻 | yǐnyù
+象征 | xiàngzhēng
+拟人 | nǐrén
+意象 | yìxiàng
+韵味 | yùnwèi
+韵律 | yùnlǜ
+押韵 | yāyùn
+格律 | gélǜ
+对仗 | duìzhàng
+文风 | wénfēng
+笔调 | bǐdiào
+笔触 | bǐchù
+笔法 | bǐfǎ
+文笔 | wénbǐ
+措辞 | cuòcí
+遣词造句 | qiǎn cí zào jù
+字里行间 | zì lǐ háng jiān
+言外之意 | yán wài zhī yì
+内涵 | nèihán
+意蕴 | yìyùn
+寓意 | yùyì
+主题思想 | zhǔtí sīxiǎng
+虚构 | xūgòu
+写实 | xiěshí
+现实主义 | xiànshí zhǔyì
+浪漫主义 | làngmàn zhǔyì
+现代主义 | xiàndài zhǔyì
+魔幻现实主义 | móhuàn xiànshí zhǔyì
+先锋 | xiānfēng
+佳作 | jiāzuò
+译本 | yìběn
+原著 | yuánzhù
+笔名 | bǐmíng
+文坛 | wéntán
+文豪 | wénháo
+共鸣 | gòngmíng
+感染力 | gǎnrǎnlì
+张力 | zhānglì
+解读 | jiědú
+赏析 | shǎngxī
+褒贬 | bāobiǎn
+推崇 | tuīchóng
+贬低 | biǎndī
+抨击 | pēngjī
+浅薄 | qiǎnbó
+平庸 | píngyōng
+陈词滥调 | chén cí làn diào
+晦涩 | huìsè
+雅俗共赏 | yǎ sú gòng shǎng
+脍炙人口 | kuài zhì rén kǒu
+栩栩如生 | xǔ xǔ rú shēng
+引人入胜 | yǐn rén rù shèng
+耐人寻味 | nài rén xún wèi
+自传 | zìzhuàn
+传记 | zhuànjì
+回忆录 | huíyìlù
+独白 | dúbái
+对白 | duìbái
+心理描写 | xīnlǐ miáoxiě
+抒情 | shūqíng
+抒发 | shūfā
+讴歌 | ōugē
+反讽 | fǎnfěng
+白描 | báimiáo
+章回小说 | zhānghuí xiǎoshuō
+意识流 | yìshíliú
+结构主义 | jiégòu zhǔyì
+互文性 | hùwénxìng
+排比 | páibǐ
+倒叙 | dàoxù
+插叙 | chāxù
+文学性 | wénxuéxìng
+可读性 | kědúxìng
+批注 | pīzhù

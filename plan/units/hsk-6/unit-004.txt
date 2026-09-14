@@ -1,0 +1,102 @@
+# theme: 공공 정책
+# unit: voca-6-u004
+施政 | shīzhèng
+纲要 | gāngyào
+部署 | bùshǔ
+举措 | jǔcuò
+执行力 | zhíxínglì
+试点 | shìdiǎn
+深化 | shēnhuà
+整顿 | zhěngdùn
+管控 | guǎnkòng
+审批 | shěnpī
+简政放权 | jiǎn zhèng fàng quán
+官僚 | guānliáo
+官僚主义 | guānliáo zhǔyì
+形式主义 | xíngshì zhǔyì
+问责 | wènzé
+责任制 | zérènzhì
+透明度 | tòumíngdù
+听证会 | tīngzhènghuì
+民生 | mínshēng
+社会保障 | shèhuì bǎozhàng
+公共服务 | gōnggòng fúwù
+保障房 | bǎozhàngfáng
+计划生育 | jìhuà shēngyù
+延迟退休 | yánchí tuìxiū
+节能减排 | jiénéng jiǎnpái
+退耕还林 | tuì gēng huán lín
+生态文明 | shēngtài wénmíng
+食品安全 | shípǐn ānquán
+公共卫生 | gōnggòng wèishēng
+防控 | fángkòng
+应急 | yìngjí
+预案 | yù'àn
+突发事件 | tūfā shìjiàn
+救灾 | jiùzāi
+赈灾 | zhènzāi
+安置 | ānzhì
+拆迁 | chāiqiān
+征地 | zhēngdì
+地方政府 | dìfāng zhèngfǔ
+专项资金 | zhuānxiàng zìjīn
+督查 | dūchá
+巡视 | xúnshì
+反腐 | fǎnfǔ
+廉政 | liánzhèng
+漏洞 | lòudòng
+弊病 | bìbìng
+一刀切 | yīdāoqiē
+因地制宜 | yīn dì zhì yí
+统筹 | tǒngchóu
+倾斜 | qīngxié
+扶持 | fúchí
+优惠政策 | yōuhuì zhèngcè
+激励 | jīlì
+配套 | pèitào
+长效机制 | chángxiào jīzhì
+体制 | tǐzhì
+制度化 | zhìdùhuà
+规范化 | guīfànhuà
+标准化 | biāozhǔnhuà
+公信力 | gōngxìnlì
+政绩 | zhèngjì
+惠民 | huìmín
+便民 | biànmín
+听取 | tīngqǔ
+反馈 | fǎnkuì
+调研 | diàoyán
+智库 | zhìkù
+红头文件 | hóngtóu wénjiàn
+政务 | zhèngwù
+一站式 | yīzhànshì
+营商环境 | yíngshāng huánjìng
+乡村振兴 | xiāngcūn zhènxīng
+教育公平 | jiàoyù gōngpíng
+失业保险 | shīyè bǎoxiǎn
+最低工资 | zuìdī gōngzī
+限购 | xiàngòu
+摇号 | yáohào
+限行 | xiànxíng
+顶层设计 | dǐngcéng shèjì
+实施细则 | shíshī xìzé
+试行 | shìxíng
+五年规划 | wǔ nián guīhuà
+转移支付 | zhuǎnyí zhīfù
+养老保险 | yǎnglǎo bǎoxiǎn
+公积金 | gōngjījīn
+廉租房 | liánzūfáng
+精准扶贫 | jīngzhǔn fúpín
+公众参与 | gōngzhòng cānyù
+征求意见 | zhēngqiú yìjiàn
+政府采购 | zhèngfǔ cǎigòu
+绩效考核 | jìxiào kǎohé
+政策导向 | zhèngcè dǎoxiàng
+人才引进 | réncái yǐnjìn
+户籍改革 | hùjí gǎigé
+一票否决 | yī piào fǒujué
+朝令夕改 | zhāo lìng xī gǎi
+雷厉风行 | léi lì fēng xíng
+政令 | zhènglìng
+公共财政 | gōnggòng cáizhèng
+社会治理 | shèhuì zhìlǐ

@@ -1,0 +1,102 @@
+# theme: 시사 논설 표현
+# unit: voca-6-u013
+舆情 | yúqíng
+社论 | shèlùn
+时评 | shípíng
+评论员 | pínglùnyuán
+焦点 | jiāodiǎn
+议题 | yìtí
+热议 | rèyì
+关注度 | guānzhùdù
+激起 | jīqǐ
+掀起 | xiānqǐ
+凸显 | tūxiǎn
+彰显 | zhāngxiǎn
+折射 | zhéshè
+揭露 | jiēlù
+曝光 | bàoguāng
+披露 | pīlù
+据悉 | jùxī
+据称 | jùchēng
+知情人士 | zhīqíng rénshì
+态势 | tàishì
+走向 | zǒuxiàng
+动向 | dòngxiàng
+势头 | shìtóu
+苗头 | miáotou
+症结 | zhēngjié
+根源 | gēnyuán
+顽疾 | wánjí
+乱象 | luànxiàng
+频发 | pínfā
+亟待 | jídài
+亟须 | jíxū
+不容忽视 | bùróng hūshì
+警钟 | jǐngzhōng
+批判 | pīpàn
+非议 | fēiyì
+诟病 | gòubìng
+澄清 | chéngqīng
+回应 | huíyìng
+表态 | biǎotài
+切入点 | qièrùdiǎn
+着眼 | zhuóyǎn
+立足 | lìzú
+审视 | shěnshì
+透视 | tòushì
+利弊 | lìbì
+得失 | déshī
+失范 | shīfàn
+红线 | hóngxiàn
+发酵 | fājiào
+升温 | shēngwēn
+平息 | píngxī
+炒作 | chǎozuò
+话语权 | huàyǔquán
+自媒体 | zìméitǐ
+网络暴力 | wǎngluò bàolì
+辟谣 | pìyáo
+深层次 | shēncéngcì
+多元化 | duōyuánhuà
+常态化 | chángtàihuà
+碎片化 | suìpiànhuà
+良性循环 | liángxìng xúnhuán
+恶性循环 | èxìng xúnhuán
+软肋 | ruǎnlèi
+突破口 | tūpòkǒu
+众说纷纭 | zhòng shuō fēn yún
+各执一词 | gè zhí yī cí
+屡见不鲜 | lǚ jiàn bù xiān
+愈演愈烈 | yù yǎn yù liè
+刻不容缓 | kè bù róng huǎn
+迫在眉睫 | pò zài méi jié
+当务之急 | dāng wù zhī jí
+发人深省 | fā rén shēn xǐng
+一针见血 | yī zhēn jiàn xiě
+切中要害 | qiè zhòng yào hài
+耸人听闻 | sǒng rén tīng wén
+哗众取宠 | huá zhòng qǔ chǒng
+无可厚非 | wú kě hòu fēi
+见仁见智 | jiàn rén jiàn zhì
+治标不治本 | zhì biāo bù zhì běn
+标本兼治 | biāo běn jiān zhì
+舆论场 | yúlùnchǎng
+社评 | shèpíng
+编者按 | biānzhě'àn
+论调 | lùndiào
+言论 | yánlùn
+痛斥 | tòngchì
+声讨 | shēngtǎo
+诘问 | jiéwèn
+警示 | jǐngshì
+呼声 | hūshēng
+热搜 | rèsōu
+刷屏 | shuāpíng
+围观 | wéiguān
+标签化 | biāoqiānhuà
+污名化 | wūmínghuà
+娱乐化 | yúlèhuà
+僵局 | jiāngjú
+破局 | pòjú
+不作为 | bù zuòwéi
+缺位 | quēwèi
