@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "exam": "HSK",
+  "updatedAt": "2026-09-14",
+  "officialURL": "https://www.chinesetest.cn",
+  "regions": [
+    {
+      "id": "VN",
+      "name": {
+        "ko": "베트남",
+        "en": "Vietnam",
+        "ja": "ベトナム",
+        "zh": "越南",
+        "vi": "Việt Nam"
+      },
+      "countries": [
+        "VN"
+      ],
+      "default": true,
+      "officialURL": "https://www.chinesetest.cn",
+      "sessions": []
+    },
+    {
+      "id": "KR",
+      "name": {
+        "ko": "한국",
+        "en": "Korea",
+        "ja": "韓国",
+        "zh": "韩国",
+        "vi": "Hàn Quốc"
+      },
+      "countries": [
+        "KR"
+      ],
+      "officialURL": "https://www.hsk.or.kr",
+      "sessions": []
+    }
+  ]
+}
