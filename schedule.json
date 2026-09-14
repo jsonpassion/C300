@@ -18,7 +18,181 @@
       ],
       "default": true,
       "officialURL": "https://www.chinesetest.cn",
-      "sessions": []
+      "sessions": [
+        {
+          "id": "2026-09-20-pbt",
+          "title": {
+            "ko": "9월 20일 시험 (PBT)",
+            "en": "Sep 20 test (PBT)",
+            "ja": "9月20日試験（PBT）",
+            "zh": "9月20日考试（PBT）",
+            "vi": "Kỳ thi 20/9 (PBT)"
+          },
+          "examDate": "2026-09-20",
+          "resultDate": "2026-10-26",
+          "note": {
+            "ko": "지필 시험(PBT) · 접수 마감",
+            "en": "Paper-based test (PBT) · registration closed",
+            "ja": "筆記試験（PBT） · 受付終了",
+            "zh": "纸笔考试（PBT） · 报名已截止",
+            "vi": "Thi trên giấy (PBT) · đã hết hạn đăng ký"
+          },
+          "url": "https://www.chinesetest.cn/HSK"
+        },
+        {
+          "id": "2026-09-20-ibt",
+          "title": {
+            "ko": "9월 20일 시험 (IBT)",
+            "en": "Sep 20 test (IBT)",
+            "ja": "9月20日試験（IBT）",
+            "zh": "9月20日考试（IBT）",
+            "vi": "Kỳ thi 20/9 (IBT)"
+          },
+          "examDate": "2026-09-20",
+          "levels": [
+            "hsk-2",
+            "hsk-3",
+            "hsk-4",
+            "hsk-5",
+            "hsk-6"
+          ],
+          "note": {
+            "ko": "컴퓨터 시험(IBT) · 2~6급만 · 접수 마감",
+            "en": "Computer-based test (IBT) · levels 2–6 only · registration closed",
+            "ja": "コンピューター試験（IBT） · 2～6級のみ · 受付終了",
+            "zh": "网络考试（IBT） · 仅2–6级 · 报名已截止",
+            "vi": "Thi trên máy tính (IBT) · chỉ cấp 2–6 · đã hết hạn đăng ký"
+          },
+          "url": "https://www.chinesetest.cn/HSK"
+        },
+        {
+          "id": "2026-10-17-pbt",
+          "title": {
+            "ko": "10월 17일 시험 (PBT)",
+            "en": "Oct 17 test (PBT)",
+            "ja": "10月17日試験（PBT）",
+            "zh": "10月17日考试（PBT）",
+            "vi": "Kỳ thi 17/10 (PBT)"
+          },
+          "examDate": "2026-10-17",
+          "resultDate": "2026-11-17",
+          "note": {
+            "ko": "접수 마감 9월 20일 (베이징 시간 24:00, 시작일은 시험센터마다 달라요)",
+            "en": "Registration closes 2026-09-20 (24:00 Beijing time; opening dates vary by test center)",
+            "ja": "申込締切 9月20日（北京時間24:00、開始日は試験会場により異なります）",
+            "zh": "报名截止 9月20日（北京时间24:00，开始日期因考点而异）",
+            "vi": "Hạn đăng ký 20/9 (24:00 giờ Bắc Kinh; ngày mở đăng ký tùy trung tâm thi)"
+          },
+          "url": "https://www.chinesetest.cn/news/50278989"
+        },
+        {
+          "id": "2026-10-17-ibt",
+          "title": {
+            "ko": "10월 17일 시험 (IBT)",
+            "en": "Oct 17 test (IBT)",
+            "ja": "10月17日試験（IBT）",
+            "zh": "10月17日考试（IBT）",
+            "vi": "Kỳ thi 17/10 (IBT)"
+          },
+          "examDate": "2026-10-17",
+          "resultDate": "2026-11-02",
+          "levels": [
+            "hsk-2",
+            "hsk-3",
+            "hsk-4",
+            "hsk-5",
+            "hsk-6"
+          ],
+          "note": {
+            "ko": "접수 마감 10월 7일 (베이징 시간 24:00, 시작일은 시험센터마다 달라요)",
+            "en": "Registration closes 2026-10-07 (24:00 Beijing time; opening dates vary by test center)",
+            "ja": "申込締切 10月7日（北京時間24:00、開始日は試験会場により異なります）",
+            "zh": "报名截止 10月7日（北京时间24:00，开始日期因考点而异）",
+            "vi": "Hạn đăng ký 7/10 (24:00 giờ Bắc Kinh; ngày mở đăng ký tùy trung tâm thi)"
+          },
+          "url": "https://www.chinesetest.cn/news/50278989"
+        },
+        {
+          "id": "2026-11-07-pbt",
+          "title": {
+            "ko": "11월 7일 시험 (PBT)",
+            "en": "Nov 7 test (PBT)",
+            "ja": "11月7日試験（PBT）",
+            "zh": "11月7日考试（PBT）",
+            "vi": "Kỳ thi 7/11 (PBT)"
+          },
+          "examDate": "2026-11-07",
+          "resultDate": "2026-12-07",
+          "note": {
+            "ko": "접수 마감 10월 11일 (베이징 시간 24:00, 시작일은 시험센터마다 달라요)",
+            "en": "Registration closes 2026-10-11 (24:00 Beijing time; opening dates vary by test center)",
+            "ja": "申込締切 10月11日（北京時間24:00、開始日は試験会場により異なります）",
+            "zh": "报名截止 10月11日（北京时间24:00，开始日期因考点而异）",
+            "vi": "Hạn đăng ký 11/10 (24:00 giờ Bắc Kinh; ngày mở đăng ký tùy trung tâm thi)"
+          },
+          "url": "https://www.chinesetest.cn/news/50278989"
+        },
+        {
+          "id": "2026-11-07-ibt",
+          "title": {
+            "ko": "11월 7일 시험 (IBT)",
+            "en": "Nov 7 test (IBT)",
+            "ja": "11月7日試験（IBT）",
+            "zh": "11月7日考试（IBT）",
+            "vi": "Kỳ thi 7/11 (IBT)"
+          },
+          "examDate": "2026-11-07",
+          "resultDate": "2026-11-23",
+          "levels": [
+            "hsk-2",
+            "hsk-3",
+            "hsk-4",
+            "hsk-5",
+            "hsk-6"
+          ],
+          "note": {
+            "ko": "접수 마감 10월 28일 (베이징 시간 24:00, 시작일은 시험센터마다 달라요)",
+            "en": "Registration closes 2026-10-28 (24:00 Beijing time; opening dates vary by test center)",
+            "ja": "申込締切 10月28日（北京時間24:00、開始日は試験会場により異なります）",
+            "zh": "报名截止 10月28日（北京时间24:00，开始日期因考点而异）",
+            "vi": "Hạn đăng ký 28/10 (24:00 giờ Bắc Kinh; ngày mở đăng ký tùy trung tâm thi)"
+          },
+          "url": "https://www.chinesetest.cn/news/50278989"
+        },
+        {
+          "id": "2026-12-13-pbt",
+          "title": {
+            "ko": "12월 13일 시험 (PBT)",
+            "en": "Dec 13 test (PBT)",
+            "ja": "12月13日試験（PBT）",
+            "zh": "12月13日考试（PBT）",
+            "vi": "Kỳ thi 13/12 (PBT)"
+          },
+          "examDate": "2026-12-13",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-09-09",
+              "end": "2026-11-16"
+            }
+          ],
+          "resultDate": "2027-01-15",
+          "note": {
+            "ko": "지필 시험(PBT) · HSK 3.0 · 마감은 베이징 시간 24:00",
+            "en": "Paper-based test (PBT) · HSK 3.0 · deadline 24:00 Beijing time",
+            "ja": "筆記試験（PBT） · HSK 3.0 · 締切は北京時間24:00",
+            "zh": "纸笔考试（PBT） · HSK 3.0 · 截止北京时间24:00",
+            "vi": "Thi trên giấy (PBT) · HSK 3.0 · hạn chót 24:00 giờ Bắc Kinh"
+          },
+          "url": "https://www.chinesetest.cn/news/51336883"
+        }
+      ]
     },
     {
       "id": "KR",
@@ -33,7 +207,272 @@
         "KR"
       ],
       "officialURL": "https://www.hsk.or.kr",
-      "sessions": []
+      "sessions": [
+        {
+          "id": "2026-09-20-pbt",
+          "title": {
+            "ko": "9월 20일 시험 (PBT)",
+            "en": "Sep 20 test (PBT)",
+            "ja": "9月20日試験（PBT）",
+            "zh": "9月20日考试（PBT）",
+            "vi": "Kỳ thi 20/9 (PBT)"
+          },
+          "examDate": "2026-09-20",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-08-03",
+              "end": "2026-08-24"
+            }
+          ],
+          "resultDate": "2026-10-26",
+          "note": {
+            "ko": "지필 시험(PBT) · HSK 3.0 정식시험",
+            "en": "Paper-based test (PBT) · HSK 3.0 official test",
+            "ja": "筆記試験（PBT） · HSK 3.0 正式試験",
+            "zh": "纸笔考试（PBT） · HSK 3.0 正式考试",
+            "vi": "Thi trên giấy (PBT) · Kỳ thi chính thức HSK 3.0"
+          },
+          "url": "https://www.hsk.or.kr/?c1=400&c2=011&c3=001&v=44416&p=1"
+        },
+        {
+          "id": "2026-09-20-ibt",
+          "title": {
+            "ko": "9월 20일 시험 (IBT)",
+            "en": "Sep 20 test (IBT)",
+            "ja": "9月20日試験（IBT）",
+            "zh": "9月20日考试（IBT）",
+            "vi": "Kỳ thi 20/9 (IBT)"
+          },
+          "examDate": "2026-09-20",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-08-03",
+              "end": "2026-09-10"
+            }
+          ],
+          "resultDate": "2026-10-12",
+          "note": {
+            "ko": "컴퓨터 시험(IBT) · HSK 3.0 정식시험",
+            "en": "Computer-based test (IBT) · HSK 3.0 official test",
+            "ja": "コンピューター試験（IBT） · HSK 3.0 正式試験",
+            "zh": "网络考试（IBT） · HSK 3.0 正式考试",
+            "vi": "Thi trên máy tính (IBT) · Kỳ thi chính thức HSK 3.0"
+          },
+          "url": "https://www.hsk.or.kr/?c1=400&c2=011&c3=001&v=44416&p=1"
+        },
+        {
+          "id": "2026-10-17-pbt",
+          "title": {
+            "ko": "10월 17일 시험 (PBT)",
+            "en": "Oct 17 test (PBT)",
+            "ja": "10月17日試験（PBT）",
+            "zh": "10月17日考试（PBT）",
+            "vi": "Kỳ thi 17/10 (PBT)"
+          },
+          "examDate": "2026-10-17",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-09-02",
+              "end": "2026-09-20"
+            }
+          ],
+          "resultDate": "2026-11-17",
+          "note": {
+            "ko": "지필 시험(PBT) · 기존 HSK",
+            "en": "Paper-based test (PBT) · current HSK format",
+            "ja": "筆記試験（PBT） · 現行HSK",
+            "zh": "纸笔考试（PBT） · 现行HSK",
+            "vi": "Thi trên giấy (PBT) · HSK hiện hành"
+          },
+          "url": "https://www.hsk.or.kr/?c1=100&c2=001&c3=002&c4=009"
+        },
+        {
+          "id": "2026-10-17-ibt",
+          "title": {
+            "ko": "10월 17일 시험 (IBT)",
+            "en": "Oct 17 test (IBT)",
+            "ja": "10月17日試験（IBT）",
+            "zh": "10月17日考试（IBT）",
+            "vi": "Kỳ thi 17/10 (IBT)"
+          },
+          "examDate": "2026-10-17",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-09-02",
+              "end": "2026-10-07"
+            }
+          ],
+          "resultDate": "2026-11-02",
+          "note": {
+            "ko": "컴퓨터 시험(IBT) · 기존 HSK",
+            "en": "Computer-based test (IBT) · current HSK format",
+            "ja": "コンピューター試験（IBT） · 現行HSK",
+            "zh": "网络考试（IBT） · 现行HSK",
+            "vi": "Thi trên máy tính (IBT) · HSK hiện hành"
+          },
+          "url": "https://www.hsk.or.kr/?c1=100&c2=002&c3=002&c4=006"
+        },
+        {
+          "id": "2026-11-07-pbt",
+          "title": {
+            "ko": "11월 7일 시험 (PBT)",
+            "en": "Nov 7 test (PBT)",
+            "ja": "11月7日試験（PBT）",
+            "zh": "11月7日考试（PBT）",
+            "vi": "Kỳ thi 7/11 (PBT)"
+          },
+          "examDate": "2026-11-07",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-09-23",
+              "end": "2026-10-11"
+            }
+          ],
+          "resultDate": "2026-12-07",
+          "note": {
+            "ko": "지필 시험(PBT) · 기존 HSK",
+            "en": "Paper-based test (PBT) · current HSK format",
+            "ja": "筆記試験（PBT） · 現行HSK",
+            "zh": "纸笔考试（PBT） · 现行HSK",
+            "vi": "Thi trên giấy (PBT) · HSK hiện hành"
+          },
+          "url": "https://www.hsk.or.kr/?c1=100&c2=001&c3=002&c4=009"
+        },
+        {
+          "id": "2026-11-07-ibt",
+          "title": {
+            "ko": "11월 7일 시험 (IBT)",
+            "en": "Nov 7 test (IBT)",
+            "ja": "11月7日試験（IBT）",
+            "zh": "11月7日考试（IBT）",
+            "vi": "Kỳ thi 7/11 (IBT)"
+          },
+          "examDate": "2026-11-07",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-09-23",
+              "end": "2026-10-28"
+            }
+          ],
+          "resultDate": "2026-11-23",
+          "note": {
+            "ko": "컴퓨터 시험(IBT) · 기존 HSK",
+            "en": "Computer-based test (IBT) · current HSK format",
+            "ja": "コンピューター試験（IBT） · 現行HSK",
+            "zh": "网络考试（IBT） · 现行HSK",
+            "vi": "Thi trên máy tính (IBT) · HSK hiện hành"
+          },
+          "url": "https://www.hsk.or.kr/?c1=100&c2=002&c3=002&c4=006"
+        },
+        {
+          "id": "2026-12-13-pbt",
+          "title": {
+            "ko": "12월 13일 시험 (PBT)",
+            "en": "Dec 13 test (PBT)",
+            "ja": "12月13日試験（PBT）",
+            "zh": "12月13日考试（PBT）",
+            "vi": "Kỳ thi 13/12 (PBT)"
+          },
+          "examDate": "2026-12-13",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-10-29",
+              "end": "2026-11-16"
+            }
+          ],
+          "resultDate": "2027-01-15",
+          "note": {
+            "ko": "지필 시험(PBT) · HSK 3.0 · HSKK는 별도 접수",
+            "en": "Paper-based test (PBT) · HSK 3.0 · HSKK registered separately",
+            "ja": "筆記試験（PBT） · HSK 3.0 · HSKKは別途申込",
+            "zh": "纸笔考试（PBT） · HSK 3.0 · HSKK需另行报名",
+            "vi": "Thi trên giấy (PBT) · HSK 3.0 · HSKK đăng ký riêng"
+          },
+          "url": "https://www.hsk.or.kr/?c1=400&c2=011&c3=001&v=44673&p=1"
+        },
+        {
+          "id": "2026-12-13-ibt",
+          "title": {
+            "ko": "12월 13일 시험 (IBT)",
+            "en": "Dec 13 test (IBT)",
+            "ja": "12月13日試験（IBT）",
+            "zh": "12月13日考试（IBT）",
+            "vi": "Kỳ thi 13/12 (IBT)"
+          },
+          "examDate": "2026-12-13",
+          "registration": [
+            {
+              "label": {
+                "ko": "접수",
+                "en": "Registration",
+                "ja": "受付",
+                "zh": "报名",
+                "vi": "Đăng ký"
+              },
+              "start": "2026-10-29",
+              "end": "2026-12-03"
+            }
+          ],
+          "resultDate": "2026-12-28",
+          "note": {
+            "ko": "컴퓨터 시험(IBT) · HSK 3.0 · HSKK는 별도 접수",
+            "en": "Computer-based test (IBT) · HSK 3.0 · HSKK registered separately",
+            "ja": "コンピューター試験（IBT） · HSK 3.0 · HSKKは別途申込",
+            "zh": "网络考试（IBT） · HSK 3.0 · HSKK需另行报名",
+            "vi": "Thi trên máy tính (IBT) · HSK 3.0 · HSKK đăng ký riêng"
+          },
+          "url": "https://www.hsk.or.kr/?c1=400&c2=011&c3=001&v=44673&p=1"
+        }
+      ]
     }
   ]
 }
