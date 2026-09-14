@@ -1,0 +1,102 @@
+# theme: 관용어와 헐후어
+# unit: voca-6-u016
+走后门 | zǒu hòumén
+拍马屁 | pāi mǎpì
+炒鱿鱼 | chǎo yóuyú
+半边天 | bànbiāntiān
+碰钉子 | pèng dīngzi
+泼冷水 | pō lěngshuǐ
+开绿灯 | kāi lǜdēng
+穿小鞋 | chuān xiǎoxié
+挖墙脚 | wā qiángjiǎo
+背黑锅 | bēi hēiguō
+打官腔 | dǎ guānqiāng
+摆架子 | bǎi jiàzi
+露一手 | lòu yī shǒu
+吃老本 | chī lǎoběn
+铁饭碗 | tiěfànwǎn
+敲竹杠 | qiāo zhúgàng
+马后炮 | mǎhòupào
+老黄牛 | lǎohuángniú
+纸老虎 | zhǐlǎohǔ
+替罪羊 | tìzuìyáng
+跑龙套 | pǎo lóngtào
+唱反调 | chàng fǎndiào
+唱高调 | chàng gāodiào
+耍花招 | shuǎ huāzhāo
+走过场 | zǒu guòchǎng
+钻空子 | zuān kòngzi
+吹牛皮 | chuī niúpí
+出洋相 | chū yángxiàng
+临时抱佛脚 | línshí bào fójiǎo
+打退堂鼓 | dǎ tuìtánggǔ
+喝西北风 | hē xīběifēng
+开夜车 | kāi yèchē
+碰一鼻子灰 | pèng yī bízi huī
+捅娄子 | tǒng lóuzi
+下台阶 | xià táijiē
+吃闭门羹 | chī bìméngēng
+放鸽子 | fàng gēzi
+戴高帽 | dài gāomào
+掉链子 | diào liànzi
+拖后腿 | tuō hòutuǐ
+挑大梁 | tiǎo dàliáng
+打圆场 | dǎ yuánchǎng
+打头阵 | dǎ tóuzhèn
+唱双簧 | chàng shuānghuáng
+敲边鼓 | qiāo biāngǔ
+砸饭碗 | zá fànwǎn
+翻老账 | fān lǎozhàng
+捞稻草 | lāo dàocǎo
+走弯路 | zǒu wānlù
+兜圈子 | dōu quānzi
+卖关子 | mài guānzi
+抓辫子 | zhuā biànzi
+揭老底 | jiē lǎodǐ
+捧场 | pěngchǎng
+夹生饭 | jiāshēngfàn
+一锅粥 | yī guō zhōu
+老油条 | lǎoyóutiáo
+死脑筋 | sǐnǎojīn
+书呆子 | shūdāizi
+半瓶醋 | bànpíngcù
+二把刀 | èrbǎdāo
+墙头草 | qiángtóucǎo
+应声虫 | yìngshēngchóng
+眼中钉 | yǎnzhōngdīng
+绊脚石 | bànjiǎoshí
+敲门砖 | qiāoménzhuān
+下马威 | xiàmǎwēi
+炒冷饭 | chǎo lěngfàn
+大锅饭 | dàguōfàn
+小算盘 | xiǎosuànpan
+空头支票 | kōngtóu zhīpiào
+伤脑筋 | shāng nǎojīn
+耳旁风 | ěrpángfēng
+定心丸 | dìngxīnwán
+家常便饭 | jiācháng biànfàn
+八字没一撇 | bāzì méi yī piě
+吃哑巴亏 | chī yǎbakuī
+吃不了兜着走 | chī bu liǎo dōuzhe zǒu
+睁一只眼闭一只眼 | zhēng yī zhī yǎn bì yī zhī yǎn
+胳膊拧不过大腿 | gēbo nǐng bu guò dàtuǐ
+远水解不了近渴 | yuǎn shuǐ jiě bu liǎo jìn kě
+三个臭皮匠顶个诸葛亮 | sān gè chòupíjiàng dǐng gè Zhūgě Liàng
+杀鸡给猴看 | shā jī gěi hóu kàn
+羊毛出在羊身上 | yángmáo chū zài yáng shēnshang
+新官上任三把火 | xīnguān shàngrèn sān bǎ huǒ
+一口吃不成胖子 | yī kǒu chī bu chéng pàngzi
+此地无银三百两 | cǐ dì wú yín sānbǎi liǎng
+打肿脸充胖子 | dǎ zhǒng liǎn chōng pàngzi
+换汤不换药 | huàn tāng bù huàn yào
+雷声大雨点小 | léishēng dà yǔdiǎn xiǎo
+热锅上的蚂蚁 | rè guō shang de mǎyǐ
+煮熟的鸭子飞了 | zhǔshú de yāzi fēi le
+挂羊头卖狗肉 | guà yángtóu mài gǒuròu
+捡了芝麻丢了西瓜 | jiǎnle zhīma diūle xīguā
+不管三七二十一 | bùguǎn sān qī èrshíyī
+竹篮打水——一场空 | zhúlán dǎ shuǐ —— yī chǎng kōng
+哑巴吃黄连——有苦说不出 | yǎba chī huánglián —— yǒu kǔ shuō bu chū
+骑驴看唱本——走着瞧 | qí lǘ kàn chàngběn —— zǒuzhe qiáo
+泥菩萨过河——自身难保 | ní púsà guò hé —— zìshēn nán bǎo
+丈二和尚——摸不着头脑 | zhàng èr héshang —— mō bu zháo tóunǎo

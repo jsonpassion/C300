@@ -1,0 +1,102 @@
+# theme: 철학과 윤리
+# unit: voca-6-u007
+哲理 | zhélǐ
+形而上学 | xíng ér shàng xué
+唯物主义 | wéiwù zhǔyì
+唯心主义 | wéixīn zhǔyì
+辩证法 | biànzhèngfǎ
+本体论 | běntǐlùn
+认识论 | rènshilùn
+存在主义 | cúnzài zhǔyì
+虚无主义 | xūwú zhǔyì
+功利主义 | gōnglì zhǔyì
+实用主义 | shíyòng zhǔyì
+人文主义 | rénwén zhǔyì
+主体 | zhǔtǐ
+客体 | kètǐ
+本源 | běnyuán
+本性 | běnxìng
+人性 | rénxìng
+天性 | tiānxìng
+真理 | zhēnlǐ
+谬论 | miùlùn
+信念 | xìnniàn
+良知 | liángzhī
+良心 | liángxīn
+伦理 | lúnlǐ
+道义 | dàoyì
+善恶 | shàn'è
+是非 | shìfēi
+美德 | měidé
+德行 | déxíng
+操守 | cāoshǒu
+节操 | jiécāo
+气节 | qìjié
+廉耻 | liánchǐ
+尊严 | zūnyán
+人格 | réngé
+自省 | zìxǐng
+反思 | fǎnsī
+修养 | xiūyǎng
+修身 | xiūshēn
+克己 | kèjǐ
+宽恕 | kuānshù
+仁爱 | rén'ài
+仁慈 | réncí
+慈悲 | cíbēi
+博爱 | bó'ài
+儒家 | Rújiā
+道家 | Dàojiā
+墨家 | Mòjiā
+法家 | Fǎjiā
+禅宗 | Chánzōng
+中庸 | zhōngyōng
+无为 | wúwéi
+天人合一 | tiān rén hé yī
+阴阳 | yīnyáng
+因果报应 | yīnguǒ bàoyìng
+轮回 | lúnhuí
+宿命 | sùmìng
+自由意志 | zìyóu yìzhì
+欲望 | yùwàng
+私欲 | sīyù
+贪婪 | tānlán
+伪善 | wěishàn
+堕落 | duòluò
+沉沦 | chénlún
+罪恶 | zuì'è
+邪恶 | xié'è
+崇高 | chónggāo
+高尚 | gāoshàng
+卑鄙 | bēibǐ
+卑劣 | bēiliè
+无私 | wúsī
+奉献 | fèngxiàn
+利他 | lìtā
+利己 | lìjǐ
+底线 | dǐxiàn
+准则 | zhǔnzé
+规范 | guīfàn
+戒律 | jièlǜ
+禁忌 | jìnjì
+世界观 | shìjièguān
+人生观 | rénshēngguān
+终极 | zhōngjí
+永恒 | yǒnghéng
+虚无 | xūwú
+荒诞 | huāngdàn
+悲悯 | bēimǐn
+超越 | chāoyuè
+升华 | shēnghuá
+觉悟 | juéwù
+顿悟 | dùnwù
+省悟 | xǐngwù
+圣贤 | shèngxián
+先哲 | xiānzhé
+箴言 | zhēnyán
+格言 | géyán
+道德困境 | dàodé kùnjìng
+两难 | liǎngnán
+权衡 | quánhéng
+抉择 | juézé
+伦理学 | lúnlǐxué

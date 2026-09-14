@@ -1,0 +1,102 @@
+# theme: 거시 경제
+# unit: voca-6-u002
+国内生产总值 | guónèi shēngchǎn zǒngzhí
+通货紧缩 | tōnghuò jǐnsuō
+降息 | jiàngxī
+加息 | jiāxī
+准备金 | zhǔnbèijīn
+流动性 | liúdòngxìng
+信贷 | xìndài
+国债 | guózhài
+减税 | jiǎnshuì
+税负 | shuìfù
+补贴 | bǔtiē
+宏观调控 | hóngguān tiáokòng
+景气 | jǐngqì
+低迷 | dīmí
+滞胀 | zhìzhàng
+崩盘 | bēngpán
+杠杆 | gànggǎn
+过剩 | guòshèng
+供给侧 | gōngjǐcè
+外需 | wàixū
+增速 | zēngsù
+放缓 | fànghuǎn
+回落 | huíluò
+攀升 | pānshēng
+飙升 | biāoshēng
+暴跌 | bàodiē
+下滑 | xiàhuá
+劳动力 | láodònglì
+生产率 | shēngchǎnlǜ
+存量 | cúnliàng
+增量 | zēngliàng
+结构性 | jiégòuxìng
+产业链 | chǎnyèliàn
+供应链 | gōngyìngliàn
+实体经济 | shítǐ jīngjì
+虚拟经济 | xūnǐ jīngjì
+市场经济 | shìchǎng jīngjì
+计划经济 | jìhuà jīngjì
+寡头 | guǎtóu
+竞争力 | jìngzhēnglì
+储备 | chǔbèi
+央行 | yāngháng
+监管 | jiānguǎn
+进出口 | jìnchūkǒu
+壁垒 | bìlěi
+贸易壁垒 | màoyì bìlěi
+自由贸易 | zìyóu màoyì
+保护主义 | bǎohù zhǔyì
+倾销 | qīngxiāo
+外商 | wàishāng
+合资 | hézī
+独资 | dúzī
+国企 | guóqǐ
+私有化 | sīyǒuhuà
+所有制 | suǒyǒuzhì
+基础设施 | jīchǔ shèshī
+城镇化 | chéngzhènhuà
+工业化 | gōngyèhuà
+可持续发展 | kě chíxù fāzhǎn
+估值 | gūzhí
+总额 | zǒng'é
+新兴市场 | xīnxīng shìchǎng
+软着陆 | ruǎnzhuólù
+硬着陆 | yìngzhuólù
+量化宽松 | liànghuà kuānsōng
+经济增长 | jīngjì zēngzhǎng
+经济周期 | jīngjì zhōuqī
+金融危机 | jīnróng wēijī
+货币政策 | huòbì zhèngcè
+财政政策 | cáizhèng zhèngcè
+财政赤字 | cáizhèng chìzì
+外汇储备 | wàihuì chǔbèi
+基准利率 | jīzhǔn lìlǜ
+货币供应量 | huòbì gōngyìngliàng
+通胀 | tōngzhàng
+物价指数 | wùjià zhǐshù
+人均收入 | rénjūn shōurù
+国民收入 | guómín shōurù
+总需求 | zǒng xūqiú
+产能过剩 | chǎnnéng guòshèng
+去杠杆 | qù gànggǎn
+债务危机 | zhàiwù wēijī
+主权债务 | zhǔquán zhàiwù
+资本外流 | zīběn wàiliú
+热钱 | rèqián
+资本市场 | zīběn shìchǎng
+牛市 | niúshì
+熊市 | xióngshì
+经济特区 | jīngjì tèqū
+产业结构 | chǎnyè jiégòu
+第三产业 | dì-sān chǎnyè
+经济全球化 | jīngjì quánqiúhuà
+配额 | pèi'é
+逆周期调节 | nì zhōuqī tiáojié
+财政收入 | cáizhèng shōurù
+经济下行 | jīngjì xiàxíng
+下行压力 | xiàxíng yālì
+高质量发展 | gāo zhìliàng fāzhǎn
+数字经济 | shùzì jīngjì
+民营经济 | mínyíng jīngjì

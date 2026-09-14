@@ -1,0 +1,205 @@
+[
+ {
+  "band": "hsk-2",
+  "units": [
+   {
+    "unit": 1,
+    "need": 28,
+    "theme": "하루 일과와 여가 — 운동·여행·병원"
+   },
+   {
+    "unit": 2,
+    "need": 24,
+    "theme": "기본 접속사와 부사 — 因为·所以·已经"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-2-u001.md"
+ },
+ {
+  "band": "hsk-3",
+  "units": [
+   {
+    "unit": 2,
+    "need": 15,
+    "theme": "생활과 건강"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-3-u002.md"
+ },
+ {
+  "band": "hsk-4",
+  "units": [
+   {
+    "unit": 1,
+    "need": 9,
+    "theme": "사회와 문화"
+   },
+   {
+    "unit": 3,
+    "need": 17,
+    "theme": "일과 직장"
+   },
+   {
+    "unit": 4,
+    "need": 8,
+    "theme": "교육과 연구"
+   },
+   {
+    "unit": 9,
+    "need": 11,
+    "theme": "복문 접속어 — 否则·反而"
+   },
+   {
+    "unit": 10,
+    "need": 3,
+    "theme": "태도와 평가 형용사"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-4-u001.md"
+ },
+ {
+  "band": "hsk-5",
+  "units": [
+   {
+    "unit": 2,
+    "need": 5,
+    "theme": "경제 심화"
+   },
+   {
+    "unit": 3,
+    "need": 9,
+    "theme": "기업과 경영"
+   },
+   {
+    "unit": 6,
+    "need": 12,
+    "theme": "교육 제도"
+   },
+   {
+    "unit": 7,
+    "need": 7,
+    "theme": "환경 보호"
+   },
+   {
+    "unit": 8,
+    "need": 34,
+    "theme": "과학 연구"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-5-u002.md"
+ },
+ {
+  "band": "hsk-5",
+  "units": [
+   {
+    "unit": 12,
+    "need": 14,
+    "theme": "인물과 태도"
+   },
+   {
+    "unit": 14,
+    "need": 26,
+    "theme": "서면어 부사·접속어 — 以便·迄今"
+   },
+   {
+    "unit": 16,
+    "need": 52,
+    "theme": "헷갈리는 유의어 짝"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-5-u012.md"
+ },
+ {
+  "band": "hsk-6",
+  "units": [
+   {
+    "unit": 1,
+    "need": 14,
+    "theme": "국제 관계"
+   },
+   {
+    "unit": 2,
+    "need": 35,
+    "theme": "거시 경제"
+   },
+   {
+    "unit": 3,
+    "need": 30,
+    "theme": "법률과 사법"
+   },
+   {
+    "unit": 4,
+    "need": 21,
+    "theme": "공공 정책"
+   },
+   {
+    "unit": 5,
+    "need": 4,
+    "theme": "사회 구조와 계층"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-6-u001.md"
+ },
+ {
+  "band": "hsk-6",
+  "units": [
+   {
+    "unit": 6,
+    "need": 10,
+    "theme": "학술 담론"
+   },
+   {
+    "unit": 8,
+    "need": 29,
+    "theme": "과학 정책"
+   },
+   {
+    "unit": 9,
+    "need": 18,
+    "theme": "의학과 생명"
+   },
+   {
+    "unit": 10,
+    "need": 6,
+    "theme": "문학 비평"
+   },
+   {
+    "unit": 11,
+    "need": 21,
+    "theme": "예술과 미학"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-6-u006.md"
+ },
+ {
+  "band": "hsk-6",
+  "units": [
+   {
+    "unit": 12,
+    "need": 20,
+    "theme": "역사 해석"
+   },
+   {
+    "unit": 13,
+    "need": 20,
+    "theme": "시사 논설 표현"
+   },
+   {
+    "unit": 14,
+    "need": 26,
+    "theme": "서면어 호응 — 鉴于·势必"
+   },
+   {
+    "unit": 15,
+    "need": 10,
+    "theme": "고급 사자성어"
+   },
+   {
+    "unit": 17,
+    "need": 13,
+    "theme": "고급 유의어 구별"
+   }
+  ],
+  "target": "plan/wordlists/topup/hsk-6-u012.md"
+ }
+]
